@@ -1,0 +1,102 @@
+C:\Users\Jose Antonio\Desktop\9no Cuatrimestre\TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES\SI\SI\bin\Debug\SI.exe
+C:\Users\Jose Antonio\Desktop\9no Cuatrimestre\TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES\SI\SI\bin\Debug\SI.pdb
+C:\Users\Jose Antonio\Desktop\9no Cuatrimestre\TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES\SI\SI\obj\Debug\SI.csprojResolveAssemblyReference.cache
+C:\Users\Jose Antonio\Desktop\9no Cuatrimestre\TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES\SI\SI\obj\Debug\SI.Form1.resources
+C:\Users\Jose Antonio\Desktop\9no Cuatrimestre\TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES\SI\SI\obj\Debug\SI.Properties.Resources.resources
+C:\Users\Jose Antonio\Desktop\9no Cuatrimestre\TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES\SI\SI\obj\Debug\SI.csproj.GenerateResource.Cache
+C:\Users\Jose Antonio\Desktop\9no Cuatrimestre\TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES\SI\SI\obj\Debug\SI.exe
+C:\Users\Jose Antonio\Desktop\9no Cuatrimestre\TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES\SI\SI\obj\Debug\SI.pdb
+C:\Users\Jose Antonio\Desktop\9no Cuatrimestre\TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES\SI\SI\obj\Debug\SI.Empleados.resources
+C:\Users\HP G62\Desktop\SI\SI\SI\bin\Debug\SI.exe
+C:\Users\HP G62\Desktop\SI\SI\SI\bin\Debug\SI.pdb
+C:\Users\HP G62\Desktop\SI\SI\SI\obj\Debug\SI.csprojResolveAssemblyReference.cache
+C:\Users\HP G62\Desktop\SI\SI\SI\obj\Debug\SI.Empleados.resources
+C:\Users\HP G62\Desktop\SI\SI\SI\obj\Debug\SI.Inventario.resources
+C:\Users\HP G62\Desktop\SI\SI\SI\obj\Debug\SI.Login.resources
+C:\Users\HP G62\Desktop\SI\SI\SI\obj\Debug\SI.Menu.resources
+C:\Users\HP G62\Desktop\SI\SI\SI\obj\Debug\SI.Properties.Resources.resources
+C:\Users\HP G62\Desktop\SI\SI\SI\obj\Debug\SI.csproj.GenerateResource.cache
+C:\Users\HP G62\Desktop\SI\SI\SI\obj\Debug\SI.csproj.CoreCompileInputs.cache
+C:\Users\HP G62\Desktop\SI\SI\SI\obj\Debug\SI.exe
+C:\Users\HP G62\Desktop\SI\SI\SI\obj\Debug\SI.pdb
+C:\Users\HP G62\Desktop\SI\SI\SI\obj\Debug\SI.Proyectos.resources
+C:\Users\HP G62\Desktop\SI\SI\SI\obj\Debug\SI.Reporte.resources
+C:\Users\HP G62\Desktop\SI\SI\SI\obj\Debug\SI.Contabilidad.resources
+C:\Users\HP G62\Desktop\Documentos Monse\9° Cuatrimestre\TICs\Proyecto\SI\SI\SI\obj\Debug\SI.Empleados.resources
+C:\Users\HP G62\Desktop\Documentos Monse\9° Cuatrimestre\TICs\Proyecto\SI\SI\SI\obj\Debug\SI.Inventario.resources
+C:\Users\HP G62\Desktop\Documentos Monse\9° Cuatrimestre\TICs\Proyecto\SI\SI\SI\obj\Debug\SI.Login.resources
+C:\Users\HP G62\Desktop\Documentos Monse\9° Cuatrimestre\TICs\Proyecto\SI\SI\SI\obj\Debug\SI.Menu.resources
+C:\Users\HP G62\Desktop\Documentos Monse\9° Cuatrimestre\TICs\Proyecto\SI\SI\SI\obj\Debug\SI.Proyectos.resources
+C:\Users\HP G62\Desktop\Documentos Monse\9° Cuatrimestre\TICs\Proyecto\SI\SI\SI\obj\Debug\SI.csproj.GenerateResource.cache
+C:\Users\HP G62\Desktop\Documentos Monse\9° Cuatrimestre\TICs\Proyecto\SI\SI\SI\obj\Debug\SI.exe
+C:\Users\HP G62\Desktop\Documentos Monse\9° Cuatrimestre\TICs\Proyecto\SI\SI\SI\obj\Debug\SI.pdb
+C:\Users\HP G62\Desktop\Documentos Monse\9° Cuatrimestre\TICs\Proyecto\SI\SI\SI\bin\Debug\SI.exe
+C:\Users\HP G62\Desktop\Documentos Monse\9° Cuatrimestre\TICs\Proyecto\SI\SI\SI\bin\Debug\SI.pdb
+C:\Users\HP G62\Desktop\Documentos Monse\9° Cuatrimestre\TICs\Proyecto\SI\SI\SI\obj\Debug\SI.Properties.Resources.resources
+C:\Users\HP G62\Desktop\Documentos Monse\9° Cuatrimestre\TICs\Proyecto\SI\SI\SI\obj\Debug\SI.csproj.CoreCompileInputs.cache
+C:\Users\HP G62\Desktop\Documentos Monse\9° Cuatrimestre\TICs\Proyecto\SI\SI\SI\obj\Debug\SI.csprojAssemblyReference.cache
+C:\Users\HP G62\Desktop\Documentos Monse\9° Cuatrimestre\TICs\Proyecto\SI\SI\SI\obj\Debug\SI.Clientes.resources
+C:\Users\HP G62\Desktop\Documentos Monse\9° Cuatrimestre\TICs\Proyecto\SI\SI\SI\obj\Debug\SI.Proveedores.resources
+C:\Users\Jose Antonio\Desktop\9no Cuatrimestre\TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES\Correcion\SI\SI\obj\Debug\SI.exe
+C:\Users\Jose Antonio\Desktop\9no Cuatrimestre\TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES\Correcion\SI\SI\obj\Debug\SI.pdb
+C:\Users\Jose Antonio\Desktop\9no Cuatrimestre\TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES\Correcion\SI\SI\bin\Debug\SI.exe
+C:\Users\Jose Antonio\Desktop\9no Cuatrimestre\TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES\Correcion\SI\SI\bin\Debug\SI.pdb
+C:\Users\Jose Antonio\Desktop\9no Cuatrimestre\TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES\Correcion\SI\SI\obj\Debug\SI.csprojResolveAssemblyReference.cache
+C:\Users\Jose Antonio\Desktop\9no Cuatrimestre\TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES\Correcion\SI\SI\obj\Debug\SI.Clientes.resources
+C:\Users\Jose Antonio\Desktop\9no Cuatrimestre\TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES\Correcion\SI\SI\obj\Debug\SI.Empleados.resources
+C:\Users\Jose Antonio\Desktop\9no Cuatrimestre\TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES\Correcion\SI\SI\obj\Debug\SI.Inventario.resources
+C:\Users\Jose Antonio\Desktop\9no Cuatrimestre\TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES\Correcion\SI\SI\obj\Debug\SI.Login.resources
+C:\Users\Jose Antonio\Desktop\9no Cuatrimestre\TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES\Correcion\SI\SI\obj\Debug\SI.Menu.resources
+C:\Users\Jose Antonio\Desktop\9no Cuatrimestre\TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES\Correcion\SI\SI\obj\Debug\SI.Properties.Resources.resources
+C:\Users\Jose Antonio\Desktop\9no Cuatrimestre\TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES\Correcion\SI\SI\obj\Debug\SI.Proveedores.resources
+C:\Users\Jose Antonio\Desktop\9no Cuatrimestre\TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES\Correcion\SI\SI\obj\Debug\SI.Proyectos.resources
+C:\Users\Jose Antonio\Desktop\9no Cuatrimestre\TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES\Correcion\SI\SI\obj\Debug\SI.csproj.GenerateResource.Cache
+E:\SI\SI\bin\Debug\SI.exe.config
+E:\SI\SI\bin\Debug\SI.exe
+E:\SI\SI\bin\Debug\SI.pdb
+E:\SI\SI\obj\Debug\SI.csprojResolveAssemblyReference.cache
+E:\SI\SI\obj\Debug\SI.Clientes.resources
+E:\SI\SI\obj\Debug\SI.Empleados.resources
+E:\SI\SI\obj\Debug\SI.Inventario.resources
+E:\SI\SI\obj\Debug\SI.Login.resources
+E:\SI\SI\obj\Debug\SI.Menu.resources
+E:\SI\SI\obj\Debug\SI.Properties.Resources.resources
+E:\SI\SI\obj\Debug\SI.Proveedores.resources
+E:\SI\SI\obj\Debug\SI.Proyectos.resources
+E:\SI\SI\obj\Debug\SI.csproj.GenerateResource.Cache
+E:\SI\SI\obj\Debug\SI.csproj.CoreCompileInputs.cache
+E:\SI\SI\obj\Debug\SI.exe
+E:\SI\SI\obj\Debug\SI.pdb
+E:\SI\SI\bin\Debug\MySql.Data.dll
+E:\SI\SI\bin\Debug\MySql.Data.xml
+C:\Users\vladi\Desktop\SI\SI\bin\Debug\SI.exe.config
+C:\Users\vladi\Desktop\SI\SI\bin\Debug\SI.exe
+C:\Users\vladi\Desktop\SI\SI\bin\Debug\SI.pdb
+C:\Users\vladi\Desktop\SI\SI\bin\Debug\MySql.Data.xml
+C:\Users\vladi\Desktop\SI\SI\obj\Debug\SI.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\SI\SI\obj\Debug\SI.Clientes.resources
+C:\Users\vladi\Desktop\SI\SI\obj\Debug\SI.Empleados.resources
+C:\Users\vladi\Desktop\SI\SI\obj\Debug\SI.Inventario.resources
+C:\Users\vladi\Desktop\SI\SI\obj\Debug\SI.Login.resources
+C:\Users\vladi\Desktop\SI\SI\obj\Debug\SI.Menu.resources
+C:\Users\vladi\Desktop\SI\SI\obj\Debug\SI.Properties.Resources.resources
+C:\Users\vladi\Desktop\SI\SI\obj\Debug\SI.Proveedores.resources
+C:\Users\vladi\Desktop\SI\SI\obj\Debug\SI.Proyectos.resources
+C:\Users\vladi\Desktop\SI\SI\obj\Debug\SI.csproj.GenerateResource.cache
+C:\Users\vladi\Desktop\SI\SI\obj\Debug\SI.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\SI\SI\obj\Debug\SI.csproj.CopyComplete
+C:\Users\vladi\Desktop\SI\SI\obj\Debug\SI.exe
+C:\Users\vladi\Desktop\SI\SI\obj\Debug\SI.pdb
+C:\Users\Misae\Documents\Proyectos\SI\SI\obj\Debug\SI.csprojAssemblyReference.cache
+C:\Users\Misae\Documents\Proyectos\SI\SI\obj\Debug\SI.InventarioCampos.resources
+C:\Users\Misae\Documents\Proyectos\SI\SI\obj\Debug\SI.ListaProveedores.resources
+C:\Users\Misae\Documents\Proyectos\SI\SI\obj\Debug\SI.Inventario.resources
+C:\Users\Misae\Documents\Proyectos\SI\SI\obj\Debug\SI.Properties.Resources.resources
+C:\Users\Misae\Documents\Proyectos\SI\SI\obj\Debug\SI.csproj.GenerateResource.cache
+C:\Users\Misae\Documents\Proyectos\SI\SI\obj\Debug\SI.csproj.CoreCompileInputs.cache
+C:\Users\Misae\Documents\Proyectos\SI\SI\bin\Debug\SI.exe.config
+C:\Users\Misae\Documents\Proyectos\SI\SI\bin\Debug\SI.exe
+C:\Users\Misae\Documents\Proyectos\SI\SI\bin\Debug\SI.pdb
+C:\Users\Misae\Documents\Proyectos\SI\SI\obj\Debug\SI.csproj.CopyComplete
+C:\Users\Misae\Documents\Proyectos\SI\SI\obj\Debug\SI.exe
+C:\Users\Misae\Documents\Proyectos\SI\SI\obj\Debug\SI.pdb
